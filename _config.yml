@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: LearnSys
+title: lsytest
 subtitle:
 description:
 keywords:
@@ -13,8 +13,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://CSLearningPath.github.io/
-root: /
+url: https://CSLearningPath.github.io/Effective-CPP
+root: /Effective-CPP
 permalink: :title/
 permalink_defaults:
 
@@ -79,7 +79,7 @@ theme: themes/hexo-theme-book
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:CSLearningPath/CSLearningPath.github.io
+  repo: git@github.com:CSLearningPath/CSLearningPath.github.io/Effective-CPP
   branch: gh-pages
 
 markdown:
